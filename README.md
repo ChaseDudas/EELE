@@ -1,4 +1,4 @@
-# EELS - Excel External Link Suspention
+# EELS - Excel External Link Editor
 
 EELS recurses through a folder given by the user. It checks for external links that are deemed bad by the if else statements. It also toggles on/off Read Only to make changes.
 
